@@ -63,7 +63,7 @@ Another approach to this problem would be not using all the layers of Inception-
 ![9](https://user-images.githubusercontent.com/56868253/123133511-6f5fb880-d46d-11eb-9359-2649c65ad458.png)
 
 
-# Here we were able to achieve an accuracy of 96% using a callback.
+# Here I achieved an accuracy of 96% .
 
 ![10](https://user-images.githubusercontent.com/56868253/123133563-80a8c500-d46d-11eb-806e-c13eebadf637.png)
 
